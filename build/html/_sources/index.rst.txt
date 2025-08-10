@@ -24,11 +24,11 @@ LangManus
    :alt: 演示动画
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 1
    :caption: 目录
 
-   架构.md
-   快速开始.md
-   功能特性.md
-   安装设置.md
-   开发.md
+   架构/index
+   快速开始/index
+   功能特性/index
+   安装设置/index
+   开发/index
